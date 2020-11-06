@@ -13,13 +13,18 @@
 ### About Me 🚀
 <br />
 🎓 I’m a software developer, data science enthusiast and a junior pursuing my Bachelors of Engineering in Information Technology. </br>
-👨‍I enjoy solving complex problems while developing software products, and I am passionate about research. </br>
-💻 I think open source is an excellent way to learn and contribute, and am currently working on it.</br>
+👨‍I enjoy solving complex problems while developing software products, and am passionate about research. </br>
+💻 Open source enthusiast.</br>
 
 ### My Experiences 🙌
 - Software Development Intern at Digilocker.
 - Webmaster at PICT IEEE Student Branch.
 - FOSSEE fellow at IIT Bombay.
+
+
+<a href="https://github.com/SaksheePhade">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaksheePhade&theme=merko&langs_count=8&layout=compact" />
+</a>
 
 [![Sakshee's github stats](https://github-readme-stats.vercel.app/api?username=SaksheePhade&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=SaksheePhade&color=green)
