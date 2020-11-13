@@ -18,7 +18,6 @@
 
 ### My Experiences 🙌
 - Software Development Intern at Digilocker.
-- Webmaster at PICT IEEE Student Branch.
 - FOSSEE fellow at IIT Bombay.
 
 
