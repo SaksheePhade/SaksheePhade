@@ -12,11 +12,10 @@
 
 ### About Me 🚀
 <br />
-🎓 I’m a software developer, data science enthusiast and a junior pursuing my Bachelors of Engineering in Information Technology. </br>
-👨‍I enjoy solving complex problems while developing software products, and am passionate about research. </br>
-💻 Open source enthusiast.</br>
-
+🎓 Software developer, data science enthusiast and a junior pursuing my Bachelors of Engineering in Information Technology. </br>
+    
 ### My Experiences 🙌
+- API development intern at SIRPI Analytics
 - Software Development Intern at Digilocker.
 - FOSSEE fellow at IIT Bombay.
 
