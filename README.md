@@ -23,9 +23,6 @@ I like to listen to tech podcasts and understand the speculations of my fellow p
 - Software Development Intern at Digilocker.
 - FOSSEE fellow at IIT Bombay.
 
-[![Sakshee's github stats](https://github-readme-stats.vercel.app/api?username=SaksheePhade&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=SaksheePhade&color=green)
-
 <!--
 **SaksheePhade/SaksheePhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
