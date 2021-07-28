@@ -12,17 +12,14 @@
 
 ### About Me 🚀
 <br />
-🎓 Software developer, data science enthusiast and a junior pursuing my Bachelors of Engineering in Information Technology. </br>
-    
+🎓 I'm a Software Engineer with interest in core computer science, cybersecurity and deep learning.
+I'm pursuing my Bachelors of Engineering in Information Technology(2018-22). </br>
+I like to listen to tech podcasts and understand the speculations of my fellow peers about the research and future in our industry. <br/>
 ### My Experiences 🙌
-- API development intern at SIRPI Analytics
+- Backend Engineer Intern at Securonux.
+- API development intern at SIRPI Analytics.
 - Software Development Intern at Digilocker.
 - FOSSEE fellow at IIT Bombay.
-
-
-<a href="https://github.com/SaksheePhade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaksheePhade&theme=merko&langs_count=8&layout=compact" />
-</a>
 
 [![Sakshee's github stats](https://github-readme-stats.vercel.app/api?username=SaksheePhade&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=SaksheePhade&color=green)
