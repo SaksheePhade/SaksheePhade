@@ -8,14 +8,11 @@
 </a>
 
 <br />
-<br />
 
 ### About Me 🚀
-<br />
-🎓 I'm a Software Engineer with interest in core computer science, cybersecurity and deep learning.
+I'm a Software Engineer with interest in core computer science, cybersecurity and deep learning.
 I'm pursuing my Bachelors of Engineering in Information Technology(2018-22). </br>
 I like to listen to tech podcasts and understand the speculations of my fellow peers about the research and future in our industry. </br>
-
 
 ### My Experiences 🙌
 - Backend Engineer Intern at Securonux.
